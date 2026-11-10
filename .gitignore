@@ -1,0 +1,7 @@
+# 视频原片约 7.6GB，超出 GitHub 单文件与仓库限制；本地/局域网预览版才有
+assets/videos/
+
+# 本地运行与编辑产物
+__pycache__/
+*.pyc
+.DS_Store
